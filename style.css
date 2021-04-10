@@ -1,0 +1,283 @@
+body{
+    background-color: rgb(252, 249, 246);
+}
+
+.nav_color{
+    background: white;
+    height: 40px;
+}
+.sec_header{
+display: table;
+}
+
+a{
+    
+    color: rgb(29, 28, 28);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(12, 12, 12);
+    background: rgb(158, 153, 153);
+}
+
+.a_header:hover{
+    
+    padding: 20px;
+    background: rgb(158, 153, 153);
+}
+.a_header{
+    margin-left: 870px;
+    height: 40px;
+    background-color: rgb(182, 181, 181);
+    padding: 20px;
+}
+.rooms{
+    padding: 20px;
+}
+.about{
+    padding: 20px;
+}
+.Contact{
+    padding: 20px;
+}
+.logo{
+    padding: 20px;
+    background-color: red;
+    color: white;
+}
+.imglogo{
+    width: 15px;
+
+}
+
+.sec_hotel{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 50%;
+    width: 66.66666%;
+}
+.imglogo1{
+    width: 30px;
+    float:left;
+    padding-top: 5px;
+}
+.red_sec{
+    background: red;
+    display: block;
+    padding-left: 40px;
+    height: 50px;
+    width: 45.666%;
+    margin-top: 0px;
+}
+.h2_Redsec{
+    padding-left: 50px;
+    color: white;
+    padding-top: 5px;
+    font-weight: 400;
+    font-size: 40px;
+}
+.white_sec{
+    background: white;
+    width: 50%;
+    height: 70%;
+    
+}
+.ckeckInimg{
+    width: 20px;
+    padding-top: 3px;
+}
+.lbl_chk{
+    
+}
+.sec_chkin{
+    padding: 10px;
+}
+.inp_chk{
+    display: block;
+}
+.chk1{
+    display: flex;
+}
+.ckeckoutimg{
+    width: 20px;
+    
+}
+.lbl_chk2{
+    
+}
+.sec_chkin2{
+    display: block;
+}
+.chk2{
+ padding-left: 15px;
+ padding-top: 15px;
+ 
+}
+.chk3{
+    display: flex;
+    padding-left: 10px;
+}
+.chk4{
+ display: block;  
+ margin-left: 80px; 
+ 
+}
+.sec_adult{
+display: block;
+}
+.ckeckInimg3{
+    width: 20px;
+}
+.sec_kids{
+    display: block;  
+}
+.ckeckoutimg4{
+    width: 20px;
+}
+.inp_chk3{
+    width: 135%;
+}
+.inp_chk4{
+    width: 145%;
+}
+.img_search{
+    width: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    float: left;
+}
+.sec_search{
+    display: block;
+    margin-top: 5px;
+    width: 180px;
+    height: 50px;
+    padding-left: 10px;
+    margin-left: 20px;
+    background-color: gray;
+}
+.sec_search:hover{
+    background-color: rgb(194, 192, 192);
+}
+.sear_p{
+    
+    padding-left: 10px;
+    color: white;
+    margin-left: 30px;
+    width: 150px;
+    padding-top: 20px;
+    height: 50px;
+}
+.sear_p:hover{
+    background: rgb(194, 192, 192) ;
+}
+.sec_chks{
+    display: flex;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.chk33{
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.chk44{
+    padding-left: 70px;
+    padding-top: 15px;
+}
+.sec_search2{
+    display: block;
+    color: black;
+    margin-left: 70px;
+    width: 70px;
+    height: 50px;
+}
+.sear_p2{
+    background: black;
+    color: white;
+   padding-left: 10px;
+   padding-top: 5px;
+
+}
+.sear_p2:hover{
+    background: rgb(194, 192, 192) ;
+}
+.lbl_search{
+    display: inline-flex;
+}
+.sec_p{
+    font-size: 30px;
+    margin-left: 10px;
+}
+.img_search1{
+    width: 20px;
+   
+}
+.sigroom_sec{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    width: 30%;
+    height: 100%;
+}
+.sig_room{
+    width: 400px;
+}
+.imgs{
+    width: 20px;
+}
+.btn{
+    margin-left: 15px;
+    width: 90%;
+    height: 40%;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+}
+.sigroom_sec2{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    width: 30%;
+    height: 100%;
+    float: right;
+    margin-left: 20px;
+}
+.main_sec{
+    display: flex;
+}
+.sigroom_sec3{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    width: 30%;
+    height: 100%;
+    float: right;
+    margin-left: 20px;
+}
+.sec_p2{
+    margin-left: 10px;
+}
+.mainn{
+    background-color: rgb(241, 236, 236);
+}
+.about{
+   
+}
+.sec_p2{
+    
+}
+.sec_pp{
+display: flex;
+}
+.imgs1{
+    width: 20px;
+    padding-left: 10px;
+}
+.p_card{
+    padding-left: 10px;
+}
+.imgsize{
+    width: 50%;
+    height: 40%;
+}
+.p_p{
+    
+}
